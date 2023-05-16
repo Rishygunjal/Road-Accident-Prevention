@@ -6,7 +6,7 @@ According to  National Highway Traffic Safety Administration, annually more than
 <br><br>
 This is a major concern and needs to be resolved. 
 <br>
-I would like to thank my mentors <a href="https://github.com/WeRishEin">Rishi Kumar</a> and <a href="https://www.facebook.com/rishikesh.gunjal.7">Rishikesh Gunjal</a> for guiding me through this project. <br><br>
+
 
 <h2><b>The Algorithm</b></h2>
 
